@@ -38,6 +38,7 @@ Here this project has the target establish a wireless protocol for switching a b
 
 
 
+
 	 	 	 		 	
 
 
@@ -54,6 +55,8 @@ When the Bluetooth application’s button turns ON, It sets the bulb ON, and whe
 
 
 # Circuit diagram drawn in fritzing
+![image](https://user-images.githubusercontent.com/104494230/165486756-32e3345f-2214-4dcf-86b4-14b40812352f.png)
+
 
  
 
@@ -81,6 +84,8 @@ digitalWrite(13,HIGH);
 else if(Incoming_value == '0')
 digitalWrite(13,LOW);
 }
+
+
 }
 
 
@@ -89,6 +94,8 @@ digitalWrite(13,LOW);
 
 
 # SIMURATION IN PROTEUS
+![image](https://user-images.githubusercontent.com/104494230/165486912-533292c1-d2c9-4b38-8ce5-9cb961cd3ca9.png)
+
 
  
 
@@ -100,5 +107,6 @@ digitalWrite(13,LOW);
 
 
 # References
+
 
 
